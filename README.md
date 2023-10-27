@@ -6,12 +6,12 @@
 
 This repository is divided into following subfolders, where each folder contains different topics related to Query language, Databases, Data warehouse, data lake, and about some tools (MySQL, PostgreSQL, Bigquery, Snowflake, Apache airflow etc.). In the end of the Repository, I have also given some simple example projects.
 
-- [**1.0-Query-language:**](https://github.com/arunsinp/Databases-data-pipeline-SQL/tree/main/1.0-Querry-language) This contains the basic query based language
-- [**2.0-BigQuery:**](https://github.com/arunsinp/Databases-data-pipeline-SQL/tree/main/2.0-BigQuery) Fundamentals of GCP Bigquery
-- [**3.0-PostgreSQL:**](https://github.com/arunsinp/Databases-data-pipeline-SQL/tree/main/3.0-PostgreSQL) Fundamentals of GCP Bigquery & a example 
-- [**4.0-Database:**](https://github.com/arunsinp/Databases-data-pipeline-SQL/tree/main/4.0-Database) Databases, Data warehouse, Data lake, Data pipline on Snoflake and Airflow at AWS
-- [**5.0-SQL-tutorials:**](https://github.com/arunsinp/Databases-data-pipeline-SQL/tree/main/5.0-SQL-tutorials) ABout SQL in details
-- [**6.0-Project:**](https://github.com/arunsinp/Databases-data-pipeline-SQL/tree/main/6.0-Projects) Projects
+- [**1.0-Query-language:**](https://github.com/arunp77/Databases-data-pipeline-SQL/tree/main/1.0-Querry-language) This contains the basic query based language
+- [**2.0-BigQuery:**](https://github.com/arunp77/Databases-data-pipeline-SQL/tree/main/2.0-BigQuery) Fundamentals of GCP Bigquery
+- [**3.0-PostgreSQL:**](https://github.com/arunp77/Databases-data-pipeline-SQL/tree/main/3.0-PostgreSQL) Fundamentals of GCP Bigquery & a example 
+- [**4.0-Database:**](https://github.com/arunp77/Databases-data-pipeline-SQL/tree/main/4.0-Database) Databases, Data warehouse, Data lake, Data pipline on Snoflake and Airflow at AWS
+- [**5.0-SQL-tutorials:**](https://github.com/arunp77/Databases-data-pipeline-SQL/tree/main/5.0-SQL-tutorials) ABout SQL in details
+- [**6.0-Project:**](https://github.com/arunp77/Databases-data-pipeline-SQL/tree/main/6.0-Projects) Projects
 
 
 <h1>An introduction to SQL: a beginner's guide</h1>
